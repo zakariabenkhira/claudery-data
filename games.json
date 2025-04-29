@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Free Fire (MOD, Auto Aim)",
+    "description": "لعبة تصويب سريعة برسوميات رائعة ومباريات سريعة مليئة بالإثارة.",
+    "category": "Action",
+    "size": "700MB",
+    "image": "https://link.to/image1.jpg"
+  },
+  {
+    "name": "Call of Duty (MOD, Wall Hack)",
+    "description": "لعبة إطلاق نار متقدمة تقدم أوضاع لعب متعددة مثل الباتل رويال والزومبي والمباريات السريعة.",
+    "category": "Shooter",
+    "size": "2.1GB",
+    "image": "https://link.to/image2.jpg"
+  }
+]
