@@ -1,8 +1,108 @@
-{
-    name: "Fishing Clash (MOD, Unlimited Coins/Pearls)",
-    description: "Enjoy an incredibly realistic fishing experience in Fishing Clash. The MOD version offers unlimited coins and pearls to upgrade gear and dominate every competition.",
-    category: "Simulation, Sports",
-    size: "140 MB",
-    image: "https://example.com/fishingclash.jpg"
+[
+  {
+    "name": "Call of Duty: Mobile",
+    "description": "Call of Duty: Mobile brings the legendary first-person shooter experience to your smartphone. Engage in thrilling multiplayer battles, team up in iconic modes like Team Deathmatch, and experience battle royale action with stunning graphics and intuitive controls. Regular updates add new content and events to keep the battlefield exciting.",
+    "category": "Shooter",
+    "size": "2.3 GB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/79/Call_of_Duty_Mobile_Logo.png"
   },
-],
+  {
+    "name": "Candy Crush Saga",
+    "description": "Candy Crush Saga is the king of puzzle games, challenging players to match colorful candies across hundreds of increasingly difficult levels. With sweet boosters, unique challenges, and endless updates, it offers an addictive experience that’s easy to pick up but hard to master. Perfect for quick gaming sessions or long marathons.",
+    "category": "Puzzle",
+    "size": "250 MB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Candy_Crush_Saga_App_Icon.png"
+  },
+  {
+    "name": "Clash of Clans",
+    "description": "Clash of Clans lets you build and defend your village while raiding others for resources. Train armies of wizards, barbarians, and dragons to conquer your enemies. Join clans, participate in massive clan wars, and develop elaborate strategies to dominate the battlefield in this world-famous strategy game.",
+    "category": "Strategy",
+    "size": "250 MB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Clash_of_Clans_app_icon.png"
+  },
+  {
+    "name": "PUBG Mobile",
+    "description": "PUBG Mobile delivers an intense battle royale experience where players fight to survive against 100 competitors. Drop onto an island, scavenge for weapons, and stay within the shrinking safe zone to be the last person standing. Featuring realistic graphics and tight gameplay mechanics, it remains a titan in mobile gaming.",
+    "category": "Battle Royale",
+    "size": "1.9 GB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/81/PUBG_Mobile_icon.png"
+  },
+  {
+    "name": "Roblox",
+    "description": "Roblox is a dynamic platform where you can create, play, and share games designed by users worldwide. Explore millions of unique worlds, from adventurous quests to complex simulators, or unleash your creativity by building your own games using Roblox Studio. It’s a universe limited only by your imagination.",
+    "category": "Adventure",
+    "size": "150 MB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Roblox_Logo_2022.png"
+  },
+  {
+    "name": "Among Us",
+    "description": "Among Us is a social deduction party game where players work together on a spaceship to complete tasks, but beware—impostors lurk among you! Use strategy, deception, and keen observation to root out the fakes or eliminate the crew. Perfect for friends and online groups seeking tension and laughter.",
+    "category": "Party",
+    "size": "150 MB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Among_Us_cover_art.png"
+  },
+  {
+    "name": "Subway Surfers",
+    "description": "Subway Surfers is a vibrant, fast-paced endless runner where players dodge trains and obstacles while collecting coins and power-ups. Set across global cities, each update brings fresh themes and new characters. With stunning visuals and smooth gameplay, it’s a timeless classic for casual gamers everywhere.",
+    "category": "Arcade",
+    "size": "140 MB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Subway_Surfers_app_logo.png"
+  },
+  {
+    "name": "8 Ball Pool",
+    "description": "8 Ball Pool is the ultimate mobile pool game, offering realistic physics and smooth controls. Challenge friends or compete against players worldwide in 1-on-1 matches and tournaments. With customizable cues, tournaments, and a rich leveling system, it's the definitive choice for billiards enthusiasts on the go.",
+    "category": "Sports",
+    "size": "75 MB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/8_Ball_Pool_App_Logo.png"
+  },
+  {
+    "name": "Genshin Impact",
+    "description": "Genshin Impact is an expansive open-world action RPG that lets you explore the stunning land of Teyvat. Harness elemental powers, battle powerful enemies, and uncover mysteries with a diverse roster of characters. Its gorgeous graphics, deep storylines, and co-op multiplayer make it a benchmark for mobile RPGs.",
+    "category": "Action RPG",
+    "size": "3.7 GB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Genshin_Impact.png"
+  },
+  {
+    "name": "Pokemon GO",
+    "description": "Pokemon GO transforms the real world into a Pokémon adventure using augmented reality. Capture Pokémon, participate in epic gym battles, complete quests, and team up for raids with friends. Constant events, updates, and new Pokémon ensure that trainers always have new adventures to embark on.",
+    "category": "Augmented Reality",
+    "size": "350 MB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Pok%C3%A9mon_GO_app_icon.png"
+  },
+  {
+    "name": "Fortnite Mobile",
+    "description": "Fortnite Mobile offers the complete Fortnite Battle Royale experience, optimized for mobile devices. Build, battle, and outwit opponents in vibrant worlds with unique events, skins, and seasons. With cross-platform play and constantly evolving content, it remains one of the most dynamic games available.",
+    "category": "Battle Royale",
+    "size": "7 GB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/FortniteSaveTheWorld.png"
+  },
+  {
+    "name": "League of Legends: Wild Rift",
+    "description": "League of Legends: Wild Rift is a mobile adaptation of the global MOBA phenomenon. Choose from a roster of iconic champions, master fast-paced 5v5 battles, and climb the ranks. Redesigned controls and shorter matches make it perfect for gaming on the go without sacrificing depth or strategy.",
+    "category": "MOBA",
+    "size": "2 GB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/League_of_Legends_Wild_Rift_logo.png"
+  },
+  {
+    "name": "Minecraft Mobile",
+    "description": "Minecraft Mobile allows you to dive into an endless world of creativity and survival. Build monumental structures, explore vast landscapes, or battle mobs across different biomes. Play solo or join friends for collaborative builds in one of the most iconic sandbox games ever created.",
+    "category": "Sandbox",
+    "size": "600 MB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
+  },
+  {
+    "name": "State of Survival",
+    "description": "State of Survival mixes city-building with zombie survival tactics. Develop your settlement, form alliances, recruit heroes, and battle hordes of the undead. Strategic resource management and gripping PvP battles make it a standout experience for fans of the post-apocalyptic genre.",
+    "category": "Strategy",
+    "size": "150 MB",
+    "image": "https://play-lh.googleusercontent.com/INmNdf4dBfsbxE9Nh4mBLnL3uSZNMBTAy-0jQGLj6yCVQkGDccKFS9-YUZJp6Bh1ag"
+  },
+  {
+    "name": "Brawl Stars",
+    "description": "Brawl Stars is a fast-paced multiplayer shooter where players battle across a variety of modes, from gem grab to showdown. Choose from a diverse roster of brawlers each with unique abilities, and compete in solo, duo, or team-based matches. Quick, energetic, and endlessly replayable.",
+    "category": "Action",
+    "size": "300 MB",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Brawl_Stars_Logo.png"
+  }
+]
+
